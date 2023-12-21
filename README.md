@@ -5,7 +5,7 @@
 <pre>
     🎓 Electrical Engg. Undergraduate @ NITJ 
     💻 Web Dev • Data Structures & Algo
-    🚀 TypeScript • ReactJS • NextJS • MongoDB
+    🚀 TypeScript • ReactJS • NextJS • C++
     🎮 Code • Music • Games • Art • Soup • 🍧
     🎨 Video Editing • Designing
 </pre>
