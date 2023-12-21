@@ -3,11 +3,11 @@
 <img src="https://github.com/Aryan570/Aryan570/blob/main/for_github/output-onlinegiftools.gif" width="60%" />
 <br><br>
 <pre>
-    💼 test
-    💻 test
-    📖 test
-    🎮 test
-    🐾 test
+    🎓 Electrical Engg. Undergraduate @ NITJ 
+    💻 Web Dev • Data Structures & Algo
+    🚀 TypeScript • ReactJS • NextJS • MongoDB
+    🎮 Code • Music • Games • Art • Soup • 🍧
+    🎨 Video Editing • Designing
 </pre>
 <br><br>
 <img src="https://github.com/Aryan570/Aryan570/blob/main/for_github/R.gif" height="40"/>
