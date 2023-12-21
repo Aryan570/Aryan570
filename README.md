@@ -14,11 +14,8 @@
 <img src="https://github.com/Aryan570/Aryan570/blob/main/for_github/R.gif" height="40"/>
 <br><br><br>
     
-[![](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/a4yan1/)
-
+[![](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/a4yan1/) <br>
 [![](https://img.shields.io/badge/website-000000?style=flat&logo=About.me&logoColor=white)](https://ghiblily.vercel.app/)
-
 [![](https://img.shields.io/badge/harri-22D8BF)](https://harri.com/Aryan-1769)
-
 [![](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](discordapp.com/users/511556014433239040)
 </div>
