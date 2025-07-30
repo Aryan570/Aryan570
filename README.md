@@ -5,7 +5,7 @@
 <img src="https://github.com/Aryan570/Aryan570/blob/main/for_github/output-onlinegiftools.gif" width="60%" />
 <br><br>
 <pre>
-    🎓 Electrical Engg. Undergraduate @ NITJ 
+    🎓 Electrical Engg. @ NITJ '24
     💻 Web Dev • Data Structures & Algo
     🚀 TypeScript • ReactJS • NextJS • Rust
     🎮 Code • Music • Games • Art • Soup • 🍧
